@@ -101,7 +101,6 @@ $RECYCLE.BIN/
 *.sig
 
 pkg/
-src/
 
 ### SublimeText template
 # Cache files for Sublime Text
